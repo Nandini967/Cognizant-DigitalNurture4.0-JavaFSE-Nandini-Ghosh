@@ -1,0 +1,5 @@
+com\cognizant\jwtauthassignment\model\AuthRequest.class
+com\cognizant\jwtauthassignment\security\JwtUtil.class
+com\cognizant\jwtauthassignment\JwtAuthAssignmentApplication.class
+com\cognizant\jwtauthassignment\controller\AuthController.class
+com\cognizant\jwtauthassignment\security\SecurityConfig.class
