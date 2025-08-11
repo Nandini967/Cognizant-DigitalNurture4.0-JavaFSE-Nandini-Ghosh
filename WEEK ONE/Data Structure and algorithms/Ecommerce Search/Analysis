@@ -1,3 +1,0 @@
-Obseravtion after comparing the performance of linear search and binary search:
-1. For small dataset linear search is efficient compared to binary search
-2. For large dataset binary search is more efficient only after sorting.

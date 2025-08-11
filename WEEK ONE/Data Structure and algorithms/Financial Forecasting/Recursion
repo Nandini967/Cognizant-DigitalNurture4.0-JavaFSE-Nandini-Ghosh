@@ -1,6 +1,0 @@
-1. What is Recursion?
-Answer: Recursion is a programming technique where a method calls itself to solve a smaller version of the same problem.
-
-2. How Recursion simplify certain task?
-Answer: 1. It reduces complexity of codes.
-        2. It is helpful in solving backtracking problems.
